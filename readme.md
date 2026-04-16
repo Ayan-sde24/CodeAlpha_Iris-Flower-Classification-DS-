@@ -133,9 +133,9 @@ GridSearchCV evaluates all combinations using **cross-validation** to find optim
 2. Upload the notebook
 3. Run all cells
 
-### Optional:
+### Google Colab(link):
 
-Upload your own dataset when prompted.
+https://colab.research.google.com/drive/16zzWJFiu6161Cg0FoEnNGKDMBopjHsbu?usp=sharing
 
 ---
 
